@@ -3,9 +3,9 @@ export default function Header() {
         <header>
             <h1>Brian Mellinger ~ Benevolent Moose</h1>
             <nav>
-                <a href="../Home.jsx">Home</a> ~ 
-                <a href="itis3135-react/src/Introduction.jsx">Introduction</a> ~
-                <a href="itis3135-react/src/Contract.jsx">Contract</a>
+                <a href="/Index.jsx">Home</a> ~ 
+                <a href="/Introduction.jsx">Introduction</a> ~
+                <a href="/Contract.jsx">Contract</a>
             </nav>
         </header>
     );
