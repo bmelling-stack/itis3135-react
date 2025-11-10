@@ -3,7 +3,7 @@ export default function Header() {
         <header>
             <h1>Brian Mellinger ~ Benevolent Moose</h1>
             <nav>
-                <a href="/index.jsx">Home</a> ~ 
+                <a href="/">Home</a> ~ 
                 <a href="/Introduction.jsx">Introduction</a> ~
                 <a href="/Contract.jsx">Contract</a>
             </nav>
