@@ -1,4 +1,4 @@
-export default function Index() {
+export default function Home() {
     document.title += " | ITIS3135 Home";
     return (
         <>

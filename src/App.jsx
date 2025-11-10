@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Header'
 import Footer from './Footer'
-import Index from './index'
+import Home from './Home'
 import Introduction from './Introduction'
 import Contract from './Contract'
 
