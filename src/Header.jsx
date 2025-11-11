@@ -3,9 +3,9 @@ export default function Header() {
         <header>
             <h1>Brian Mellinger ~ Benevolent Moose</h1>
             <nav>
-                <a href="/">Home</a> ~ 
-                <a href="/Introduction.jsx">Introduction</a> ~
-                <a href="/Contract.jsx">Contract</a>
+                <a href="/Index">Home</a> ~ 
+                <a href="/Introduction">Introduction</a> ~
+                <a href="/contract">Contract</a>
             </nav>
         </header>
     );
