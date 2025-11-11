@@ -10,7 +10,8 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<Index />} />
+        <Route path='/' element={<Index/>}></Route>
+        <Route path="/index" element={<Index />} />
         <Route path="/introduction" element={<Introduction />} />
         <Route path="/contract" element={<Contract />} />
       </Routes>
